@@ -55,3 +55,4 @@ if last_num == 1 \
     or last_num == 7 \
     or last_num == 9 :
     print("{}은 홀수입니다!".format(last_num))
+
