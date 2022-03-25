@@ -41,6 +41,6 @@ if number > 0 :
     # 아직 미구현 상태 입니다.
     raise NotImplementedError  # 강제로 오류 발생
 else :
-    pass
+    pass # pass를 써놓을때도 ( 0 등 아무거나 써놔도 동작은 하는데 알아볼 수 있게)
 
 
