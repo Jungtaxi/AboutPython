@@ -9,7 +9,7 @@ color1, color2 = 'B', 'W'
 
 mincnt = 64
 
-for m in range(M-7):
+for m in range(M-7): 
     for n in range(N-7):
         
         cnt1, cnt2 = 0, 0
